@@ -34,6 +34,11 @@ img {
     background-color: #ccc;
 }
 
+.sub-background{
+    background-color: #e2e2e2;
+    text-align: center;
+}
+
 .mars {
     text-align: center;
     margin: 0;
@@ -53,7 +58,7 @@ img {
     color: #0074D9;
 }
 
-@media only screen and (min-width: 20em) {
+@media only screen and (min-width: 25em) {
     
      .nav li{
         display: inline-block;
